@@ -1154,7 +1154,6 @@ p {
   .ba-gallery img {
     -webkit-box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
-    display: block;
     width: 100%;
     margin-bottom: 30px; }
 
@@ -1200,7 +1199,6 @@ p {
   .ba-contact-form input[type="tel"],
   .ba-contact-form textarea,
   .ba-contact-form select {
-    display: block;
     width: 100%;
     height: 50px;
     border: none;
